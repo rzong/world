@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profession" >
+        <item>单注随机</item>
+        <item>复式随机</item>
+        <item>玩法介绍</item>
+        <item>最近走势</item>
+        <item>开奖</item>
+    </string-array>
+</resources>
